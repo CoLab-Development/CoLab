@@ -1,4 +1,4 @@
-<img src="https://github.com/CoLab-Development/CoLab/blob/main/Card.png?raw=true" height="200px" width="300px" />
+<img src="https://github.com/CoLab-Development/CoLab/blob/main/Icon.png?raw=true" height="200px" width="200px" />
 
 # CoLab
 
