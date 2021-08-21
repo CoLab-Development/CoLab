@@ -1,4 +1,4 @@
-<img src="https://github.com/CoLab-Development/CoLab/blob/main/Group%201.png?raw=true" height="150px" width="300px" />
+<img src="https://github.com/CoLab-Development/CoLab/blob/main/Group%201.png?raw=true" height="150px" width="304px" />
 
 # CoLab
 
