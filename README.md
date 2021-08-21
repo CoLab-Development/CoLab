@@ -3,3 +3,10 @@
 # CoLab
 
 A platform for connecting students to internships and graduate jobs.
+
+## Links
+
+- [Company Website]()
+- [Frontend Code]()
+- [Backend Services](https://github.com/CoLab-Development/CoLab/blob/main/services.md)
+
